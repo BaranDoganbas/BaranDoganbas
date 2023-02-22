@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=52&duration=3200&pause=500&color=D80000&center=true&vCenter=true&width=650&height=100&lines=Welcome;Ho%C5%9F+geldin;Willkommen;Bienvenue;Bem-vindo;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;%CE%BA%CE%B1%CE%BB%CF%89%CF%82+%CE%97%CE%A1%CE%98%CE%91%CE%A4%CE%95;%D0%94%D0%BE%D0%B1%D1%80%D0%B5+%D0%B4%D0%BE%D1%88%D0%BB%D0%B8;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B;%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C;%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B;%E6%AC%A2%E8%BF%8E;%ED%99%98%EC%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=52&duration=3200&pause=500&color=D80000&center=true&vCenter=true&width=650&height=110&lines=Welcome;Ho%C5%9F+geldin;%D0%94%D0%BE%D0%B1%D1%80%D0%B5+%D0%B4%D0%BE%D1%88%D0%BB%D0%B8;Willkommen;Bienvenue;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;Bem-vindo;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B;%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C;%CE%BA%CE%B1%CE%BB%CF%89%CF%82+%CE%97%CE%A1%CE%98%CE%91%CE%A4%CE%95;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B;%E6%AC%A2%E8%BF%8E;%ED%99%98%EC%98%81;%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90)](https://git.io/typing-svg)
   
   
 ![image](https://user-images.githubusercontent.com/117115257/220744374-942c2a52-b0c2-4e09-b418-31ef1d1a549b.png)
