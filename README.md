@@ -21,13 +21,16 @@
 ![postman](https://user-images.githubusercontent.com/117115257/215229882-be5d18b0-905e-43cc-a80d-7fd407b4b9db.png)
 ![jira](https://user-images.githubusercontent.com/117115257/217906616-718205cf-fe1f-448d-bd5f-45ae4bdc22e1.png)
 ![lambda](https://user-images.githubusercontent.com/117115257/215232369-18556c67-8216-49e7-a419-4c62a5748dbb.png)
+![image](https://user-images.githubusercontent.com/117115257/221172016-2875b913-e887-43d5-a4cd-0fd985a193e7.png)
 
+  
 
-## LANGUAGES
+# LANGUAGES
 ![image](https://user-images.githubusercontent.com/117115257/215275583-0fcc0aa3-5e62-4a86-8e04-babc065acad1.png)
 ![image](https://user-images.githubusercontent.com/117115257/215275533-984afd93-2c45-4949-a9d5-4f3670987e1e.png)
 ![image](https://user-images.githubusercontent.com/117115257/215275550-3c3de41a-5ab1-4d54-9e65-624112d6333d.png)
 
+  
   
 ## REACH OUT TO ME
 <a href="https://www.linkedin.com/in/barandoganbas/">![image](https://user-images.githubusercontent.com/117115257/215230356-bae270fe-0902-4285-a864-1e68c2008318.png)</a>
