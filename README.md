@@ -12,6 +12,7 @@
 # SKILLS AND TOOLS
 ![Java](https://user-images.githubusercontent.com/117115257/215229212-74d033ce-b363-4598-9d91-cc30a6ec5ab2.png)
 ![intellij](https://user-images.githubusercontent.com/117115257/215229510-bf20882d-ccb7-4931-9d2b-744ff16ebabd.png)
+![vscode](https://user-images.githubusercontent.com/117115257/224325986-f7e9812b-4752-4cf8-a584-136439a05243.png)
 ![selenium](https://user-images.githubusercontent.com/117115257/215229272-c5073ad6-6128-4243-9c50-8f6246437378.png)
 ![postgre](https://user-images.githubusercontent.com/117115257/215229391-20b21d72-0f9b-41e6-8e63-af4e7ee5b227.png)
 ![html](https://user-images.githubusercontent.com/117115257/215229547-4993d9b9-c3a4-4cb7-9e11-5841fab8df92.png)
@@ -21,7 +22,6 @@
 ![image](https://user-images.githubusercontent.com/117115257/223832988-579f92c0-c223-47bb-92fa-471f20c1c6bb.png)
 ![jira](https://user-images.githubusercontent.com/117115257/217906616-718205cf-fe1f-448d-bd5f-45ae4bdc22e1.png)
 ![lambda](https://user-images.githubusercontent.com/117115257/215232369-18556c67-8216-49e7-a419-4c62a5748dbb.png)
-![image](https://user-images.githubusercontent.com/117115257/221172016-2875b913-e887-43d5-a4cd-0fd985a193e7.png)
 
   
 
@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/117115257/215275533-984afd93-2c45-4949-a9d5-4f3670987e1e.png)
 ![image](https://user-images.githubusercontent.com/117115257/215275550-3c3de41a-5ab1-4d54-9e65-624112d6333d.png)
 
-  
+
   
 ## REACH OUT TO ME
 <a href="https://www.linkedin.com/in/barandoganbas/">![image](https://user-images.githubusercontent.com/117115257/215230356-bae270fe-0902-4285-a864-1e68c2008318.png)</a>
