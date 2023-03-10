@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=48&duration=4400&pause=800&color=2DCF19&center=true&vCenter=true&width=900&height=110&lines=Good+to+see+you+here;My+name+is+Baran;I+am+from+Turkiye;I+am+a+Software+Test+Engineer;Manual+and+Automation+Testing)](https://git.io/typing-svg)
 
-![testing-icon](https://user-images.githubusercontent.com/117115257/224328781-bfcdd295-6bf2-44fc-bcd1-5173d35c9685.png)
+![testing-icon-png-24](https://user-images.githubusercontent.com/117115257/224332681-a183de43-1925-4c0f-88e8-4d3e88c94dac.png)
 
 # SKILLS AND TOOLS
 ![java](https://user-images.githubusercontent.com/117115257/224331539-48e0f6c8-3dc3-46a5-940e-f6343c9c8558.png)
