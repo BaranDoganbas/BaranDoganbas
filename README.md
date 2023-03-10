@@ -3,23 +3,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=52&duration=3200&pause=500&color=D80000&center=true&vCenter=true&width=650&height=110&lines=Welcome;Ho%C5%9F+geldin;%D0%94%D0%BE%D0%B1%D1%80%D0%B5+%D0%B4%D0%BE%D1%88%D0%BB%D0%B8;Willkommen;Bienvenue;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;Bem-vindo;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B;%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C;%CE%BA%CE%B1%CE%BB%CF%89%CF%82+%CE%97%CE%A1%CE%98%CE%91%CE%A4%CE%95;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B;%E6%AC%A2%E8%BF%8E;%ED%99%98%EC%98%81;%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90)](https://git.io/typing-svg)
   
-  
 ![image](https://user-images.githubusercontent.com/117115257/220744374-942c2a52-b0c2-4e09-b418-31ef1d1a549b.png)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=48&duration=4400&pause=800&color=2DCF19&center=true&vCenter=true&width=900&height=110&lines=Good+to+see+you+here;My+name+is+Baran;I+am+from+Turkiye;I+am+a+Software+Test+Engineer;Manual+and+Automation+Testing)](https://git.io/typing-svg)
 
+![testing-icon](https://user-images.githubusercontent.com/117115257/224328781-bfcdd295-6bf2-44fc-bcd1-5173d35c9685.png)
+
 # SKILLS AND TOOLS
-![Java](https://user-images.githubusercontent.com/117115257/215229212-74d033ce-b363-4598-9d91-cc30a6ec5ab2.png)
+![java](https://user-images.githubusercontent.com/117115257/224331539-48e0f6c8-3dc3-46a5-940e-f6343c9c8558.png)
 ![intellij](https://user-images.githubusercontent.com/117115257/215229510-bf20882d-ccb7-4931-9d2b-744ff16ebabd.png)
 ![vscode](https://user-images.githubusercontent.com/117115257/224325986-f7e9812b-4752-4cf8-a584-136439a05243.png)
 ![selenium](https://user-images.githubusercontent.com/117115257/215229272-c5073ad6-6128-4243-9c50-8f6246437378.png)
-![postgre](https://user-images.githubusercontent.com/117115257/215229391-20b21d72-0f9b-41e6-8e63-af4e7ee5b227.png)
+![cucumber](https://user-images.githubusercontent.com/117115257/224326467-5b71a44c-734e-42a2-9378-552be325f82b.png)
+![postgresql](https://user-images.githubusercontent.com/117115257/224331359-a9567637-39d8-4e20-a7d9-cb18a2af1f41.png)
+![jenkins](https://user-images.githubusercontent.com/117115257/224326647-c0d131a3-25b9-4669-a1bd-eb476913d384.png)
+![postman](https://user-images.githubusercontent.com/117115257/223832988-579f92c0-c223-47bb-92fa-471f20c1c6bb.png)
+![api](https://user-images.githubusercontent.com/117115257/224330123-451a6c2b-7571-4294-8a6c-1b262d8db143.png)
+![jmeter](https://user-images.githubusercontent.com/117115257/224331825-d0214bd0-c424-4886-873e-262f52c66007.png)
 ![html](https://user-images.githubusercontent.com/117115257/215229547-4993d9b9-c3a4-4cb7-9e11-5841fab8df92.png)
 ![css](https://user-images.githubusercontent.com/117115257/215229591-a7568c77-7672-4419-b42f-f3042c6084be.png)
-![api](https://user-images.githubusercontent.com/117115257/215230194-30dd0117-d4ae-4cf1-beaf-1c658e9423e9.png)
-![jenkins](https://user-images.githubusercontent.com/117115257/215229357-b2a5adb9-2ba2-4e4b-a59a-7c07f0c16eb1.png)
-![image](https://user-images.githubusercontent.com/117115257/223832988-579f92c0-c223-47bb-92fa-471f20c1c6bb.png)
 ![jira](https://user-images.githubusercontent.com/117115257/217906616-718205cf-fe1f-448d-bd5f-45ae4bdc22e1.png)
 ![lambda](https://user-images.githubusercontent.com/117115257/215232369-18556c67-8216-49e7-a419-4c62a5748dbb.png)
 
