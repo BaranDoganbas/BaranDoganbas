@@ -38,6 +38,7 @@
 ## REACH OUT TO ME
 <a href="https://www.linkedin.com/in/barandoganbas/">![image](https://user-images.githubusercontent.com/117115257/215230356-bae270fe-0902-4285-a864-1e68c2008318.png)</a>
   <a href="https://www.instagram.com/baran.the.wanderer/">![image](https://user-images.githubusercontent.com/117115257/215274344-40dd1c79-fa35-462f-bb3b-e787267b95ea.png)</a>
+  <a href="https://www.youtube.com/@birtesteringunlugu/featured">![Youtube_icon-icons com_66802](https://user-images.githubusercontent.com/117115257/227064624-74208046-227d-4671-81e8-2d47eb5769bb.png)</a>
 ![image](https://user-images.githubusercontent.com/117115257/215233801-f70d7706-da8d-4a0b-96fa-7c0f60debea4.png)
 
 
