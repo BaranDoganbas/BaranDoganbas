@@ -43,7 +43,7 @@
 
 
   
-![QA Engineer and Development](https://raw.githubusercontent.com/BaranDoganbas/BaranDoganbas/5378aac13c3597cc48d3dee521788029f3d84630/github-contribution-grid-snake.svg)
+![QA Engineer and Development](https://raw.githubusercontent.com/BaranDoganbas/BaranDoganbas/14c2144da890c69036d73bf0c43c88591944e40d/github-contribution-grid-snake.svg)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BaranDoganbas&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
