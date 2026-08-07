@@ -12,7 +12,7 @@ QA Automation Engineer at BeamSec, Ankara.
 Feature: Baran Doganbas
 
   Background:
-    Given testing enterprise software since 2023
+    Given testing enterprise software since 2022
     And an ISTQB Foundation certification
 
   Scenario: On a given week
@@ -40,20 +40,20 @@ Feature: Baran Doganbas
 **[playwright-bdd-demo](https://github.com/BaranDoganbas/playwright-bdd-demo)** — the framework I
 run at work, stripped of anything proprietary and pointed at a public demo app. CI rebuilds and
 republishes the Cucumber report on every push, so what you open is whatever the last commit
-actually produced. <!-- suite:start --> **7/7 scenarios passing** as of 07 Aug 2026. <!-- suite:end -->
+actually produced. <!-- suite:start --> **26/26 scenarios passing** as of 07 Aug 2026. <!-- suite:end -->
 [Live report →](https://barandoganbas.github.io/playwright-bdd-demo/)
 
 ### How the suite is put together
 
 ```mermaid
 flowchart LR
-    F[".feature files"] --> G[playwright-bdd codegen]
+    F[".feature files"] --> G[bddgen]
     G --> S[generated specs]
-    S --> W1[worker 0]
-    S --> W2[worker 1]
-    S --> W3[worker n]
-    W1 & W2 & W3 --> R[Cucumber HTML + Allure]
-    R --> J[Jenkins]
+    S --> A[auth project]
+    S --> U[ui project]
+    S --> P[api project]
+    A & U & P --> R[Cucumber HTML report]
+    R --> GP[GitHub Pages]
 ```
 
 <details>
@@ -61,22 +61,21 @@ flowchart LR
 
 <br>
 
-**Test data is derived from `workerIndex`, not a shared fixture.** Parallel runs that share a
-seed user look fine until two workers hit the same record and one of them fails for reasons that
-have nothing to do with the feature under test. Deriving the data per worker costs a few lines
-and removes a whole category of flake.
+**Step definitions are scoped per project, not globally.** The UI project cannot resolve an API
+step and vice versa. Share one global step pool and a genuinely missing definition hides behind an
+accidental match from the other suite, which is a failure that looks like a pass.
 
-**Serial is a tag, not a default.** A handful of flows genuinely cannot run in parallel, usually
-because they mutate tenant-level state. Those get `@mode:serial`. Everything else runs wide.
-Marking the whole suite serial because three specs misbehave is how a suite ends up taking
-forty minutes.
+**Login runs once.** A `setup` project signs in and persists storage state, and the UI project
+depends on it. The auth scenarios deliberately opt out, because signing in is the thing they test.
+Authentication is the most common reason a small suite feels slow and the most common source of
+flake nobody attributes correctly.
 
-**Auth runs once and gets reused.** Storage state, set up in a project dependency. Logging in
-before every scenario is the single most common reason a small suite feels slow.
+**`forbidOnly` is on in CI.** A stray `.only` that reaches main should turn the run red, not
+quietly reduce the suite to one spec and report green.
 
-**Two reporters, not four.** Cucumber HTML for people who want to read scenarios, Allure for
-history and trends. I tried Monocart alongside them and removed it; a third view of the same
-run is maintenance, not information.
+**The checkout total is computed from the page, not hardcoded.** An assertion against a literal
+number passes for the wrong reason the moment the tax rate changes. Reading the value and checking
+the arithmetic tests the behaviour instead of the fixture.
 
 </details>
 
