@@ -9,10 +9,10 @@
 QA Automation Engineer at BeamSec, Ankara.
 
 ```gherkin
-Feature: Baran Doğanbaş
+Feature: Baran DOGANBAS
 
   Background:
-    Given testing enterprise software since 2022
+    Given testing enterprise software since 2023
     And an ISTQB Foundation certification
 
   Scenario: On a given week
