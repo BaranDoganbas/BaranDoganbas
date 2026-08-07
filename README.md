@@ -9,7 +9,7 @@
 QA Automation Engineer at BeamSec, Ankara.
 
 ```gherkin
-Feature: Baran DOGANBAS
+Feature: Baran Doganbas
 
   Background:
     Given testing enterprise software since 2023
