@@ -12,7 +12,7 @@ QA Automation Engineer at BeamSec, Ankara.
 Feature: Baran Doganbas
 
   Background:
-    Given testing software and systems since 2022
+    Given testing software and systems since 2023
     And an ISTQB Foundation certification
 
   Scenario: On a given week
