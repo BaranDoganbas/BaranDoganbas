@@ -35,7 +35,7 @@ Feature: Baran Doğanbaş
 
 ### Public work
 
-[![suite](https://github.com/BaranDoganbas/playwright-bdd-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/BaranDoganbas/playwright-bdd-demo/actions)
+[![suite](https://github.com/BaranDoganbas/playwright-bdd-demo/actions/workflows/e2e.yml/badge.svg)](https://github.com/BaranDoganbas/playwright-bdd-demo/actions)
 
 **[playwright-bdd-demo](https://github.com/BaranDoganbas/playwright-bdd-demo)** — the framework I
 run at work, stripped of anything proprietary and pointed at a public demo app. CI rebuilds and
