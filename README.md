@@ -1,37 +1,49 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=52&duration=3200&pause=500&color=D80000&center=true&vCenter=true&width=650&height=110&lines=Welcome;Ho%C5%9F+geldin;%D0%94%D0%BE%D0%B1%D1%80%D0%B5+%D0%B4%D0%BE%D1%88%D0%BB%D0%B8;Willkommen;Bienvenue;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;Bem-vindo;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B;%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C;%CE%BA%CE%B1%CE%BB%CF%89%CF%82+%CE%97%CE%A1%CE%98%CE%91%CE%A4%CE%95;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B;%E6%AC%A2%E8%BF%8E;%ED%99%98%EC%98%81;%D7%91%D7%A8%D7%95%D7%9A+%D7%94%D7%91%D7%90)](https://git.io/typing-svg)
-  
-![7187420](https://user-images.githubusercontent.com/117115257/224334999-34d0a3e8-e4a9-464d-9dc0-17dc46dd1435.png)
-![image](https://user-images.githubusercontent.com/117115257/220744374-942c2a52-b0c2-4e09-b418-31ef1d1a549b.png)
+![Baran Doğanbaş](https://user-images.githubusercontent.com/117115257/224334999-34d0a3e8-e4a9-464d-9dc0-17dc46dd1435.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=48&duration=4400&pause=800&color=2DCF19&center=true&vCenter=true&width=900&height=110&lines=Good+to+see+you+here;My+name+is+Baran;I+am+from+Turkiye;I+am+a+Software+Test+Engineer;Manual+and+Automation+Testing)](https://git.io/typing-svg)
-  
-# LANGUAGES
-![image](https://user-images.githubusercontent.com/117115257/215275583-0fcc0aa3-5e62-4a86-8e04-babc065acad1.png)
-![image](https://user-images.githubusercontent.com/117115257/215275533-984afd93-2c45-4949-a9d5-4f3670987e1e.png)
-![image](https://user-images.githubusercontent.com/117115257/215275550-3c3de41a-5ab1-4d54-9e65-624112d6333d.png)
-  
-## REACH OUT TO ME
-<a href="https://www.linkedin.com/in/barandoganbas/">![image](https://user-images.githubusercontent.com/117115257/215230356-bae270fe-0902-4285-a864-1e68c2008318.png)</a>
-  
-![QA Engineer and Development](https://raw.githubusercontent.com/BaranDoganbas/BaranDoganbas/370a5d20d04c56c932ec2a08ce42c517033a5196/github-contribution-grid-snake.svg)
+</div>
 
+## Baran Doğanbaş
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BaranDoganbas&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+QA Automation Engineer at BeamSec, Ankara. ISTQB CTFL.
 
-  </div>
+I break enterprise software on purpose so customers never have to do it by accident.
+Most of my work is E2E automation in Playwright, load testing that goes far enough to
+actually find the ceiling, and evaluating LLM agents that fail in ways a normal assertion
+never catches.
 
-  <!---
-<a href="https://imgbox.com/9ofQNqqm" target="_blank"><img src="https://images2.imgbox.com/b0/6b/9ofQNqqm_o.gif" alt="image host"/></a>
-  
-<a href="https://imgbox.com/EDrwlnE1" target="_blank"><img src="https://images2.imgbox.com/08/87/EDrwlnE1_o.gif" alt="image host"/></a>
-  #
-<a href="https://imgbox.com/DJ1I3VIO" target="_blank"><img src="https://images2.imgbox.com/a3/fb/DJ1I3VIO_o.gif" alt="image host"/></a>
-  
-<a href="https://imgbox.com/ddyp7aiI" target="_blank"><img src="https://images2.imgbox.com/0d/48/ddyp7aiI_o.gif" alt="image host"/></a>
-  
-<a href="https://imgbox.com/ZaZiM96E" target="_blank"><img src="https://images2.imgbox.com/73/60/ZaZiM96E_o.gif" alt="image host"/></a>
-  #
---->
+### What I work with
+
+- **Automation** — Playwright, playwright-bdd, TypeScript, Selenium, Cucumber, Page Object Model
+- **API & backend** — Rest Assured, Postman, Swagger, Spring Boot debugging, RabbitMQ, Docker
+- **Performance** — JMeter, Gatling, staged ramp strategies, custom HTML report templates
+- **Identity & infra** — LDAP, Active Directory, Azure AD, GPO, Jenkins, CI/CD
+- **Data** — PostgreSQL, MongoDB, MySQL
+- **AI evaluation** — LLM output validation, prompt regression, conversation-log analysis, failure taxonomies
+- **Test management** — Jira, Xray, test planning, scenario design, defect lifecycle
+
+### Things you can actually run
+
+**[playwright-bdd-demo](https://github.com/BaranDoganbas/playwright-bdd-demo)** — production-style
+E2E framework: POM, Gherkin scenarios, storage-state auth, multi-project config. CI republishes
+the Cucumber report on every push. Same architecture I run in production, rebuilt against a
+public demo app.
+[Live report](https://barandoganbas.github.io/playwright-bdd-demo/)
+
+**[barandoganbas.netlify.app](https://barandoganbas.netlify.app/)** — portfolio with an interactive
+JMeter load simulation and a bug hunt lab: six real defects seeded into a signup form, modeled on
+tickets I actually filed. See how many you find.
+
+### At BeamSec
+
+Built the Playwright + BDD regression suite from zero. Surfaced a TCP-layer failure at 30,000
+virtual users before an enterprise onboarding, and caught agent intent-misread failures ahead of
+a client demo. 390+ defects reported, 330+ fixes verified.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/barandoganbas/) ·
+[Medium](https://medium.com/@barandoganbas) ·
+[CV (PDF)](https://barandoganbas.netlify.app/BaranDoganbas_Resume.pdf) ·
+barandoganbas@gmail.com
