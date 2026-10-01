@@ -42,7 +42,7 @@ Feature: Baran Doganbas
 built on the patterns I use at work, pointed at two demo targets: SauceDemo for the UI and RESTful
 Booker for the API. The targets are simple on purpose; what matters is how the suite is built. CI
 rebuilds and republishes the Cucumber report on every push, so what you open is whatever the last
-commit actually produced. <!-- suite:start --> **26/26 scenarios passing** as of 07 Aug 2026. <!-- suite:end -->
+commit actually produced: 26 scenarios, 11 of them negative paths, across four Playwright projects.
 [Live report →](https://barandoganbas.github.io/playwright-bdd-demo/)
 
 ### How the suite is put together
